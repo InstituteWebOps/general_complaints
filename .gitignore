@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -10,6 +11,8 @@
 /captures
 .externalNativeBuild
 =======
+=======
+>>>>>>> 38c347e6f0e9af97650fdf3b8af7972f30dce1a9
 =======
 >>>>>>> 38c347e6f0e9af97650fdf3b8af7972f30dce1a9
 # Built application files
@@ -68,6 +71,9 @@ freeline.py
 freeline/
 freeline_project_description.json
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 38c347e6f0e9af97650fdf3b8af7972f30dce1a9
+=======
 >>>>>>> 38c347e6f0e9af97650fdf3b8af7972f30dce1a9
 =======
 >>>>>>> 38c347e6f0e9af97650fdf3b8af7972f30dce1a9
